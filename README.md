@@ -1,2 +1,1 @@
-# CiniFi
-Movie Recommendation App
+# cineFi-movie-recommender
